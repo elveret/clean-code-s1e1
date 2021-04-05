@@ -96,9 +96,6 @@ h3,
 .new-task__input {
   width: 318px;
 }
-.new-task-wrapper > .btn:hover {
-  color: #0fc57c;
-}
 
 /* Task list */
 .task-list__item {
@@ -124,9 +121,7 @@ h3,
 .task-list__item > .input-text {
   width: 226px;
 }
-.task-list__item > .btn.btn-delete:hover {
-  color: #cf2323;
-}
+
 .btn-delete__img {
   height: 2em;
   transform: rotateZ(45deg);
