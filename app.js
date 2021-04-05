@@ -24,7 +24,6 @@ var createNewTaskElement = function (taskString) {
   var editInput = document.createElement("input"); //text
   //.btn.btn-edit
   var editButton = document.createElement("button"); //edit button
-
   //.btn.btn-delete
   var deleteButton = document.createElement("button"); //delete button
   var deleteButtonImg = document.createElement("img"); //delete button image
